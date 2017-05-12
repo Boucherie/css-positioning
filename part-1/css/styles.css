@@ -52,6 +52,9 @@ body {
 
 .orange {
   background-color: orange;
+  position: absolute;
+  top: 75%;
+  left: 25%;
 }
 
 .yellow {
